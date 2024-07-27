@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.cb823499.js",
+    "main.css": "/static/css/main.4ef154bd.css",
+    "main.js": "/static/js/main.4be8a5ac.js",
     "static/js/453.4c931874.chunk.js": "/static/js/453.4c931874.chunk.js",
+    "static/media/maderaa.jpg": "/static/media/maderaa.ee7140d7526eababf903.jpg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.cb823499.js.map": "/static/js/main.cb823499.js.map",
+    "main.4ef154bd.css.map": "/static/css/main.4ef154bd.css.map",
+    "main.4be8a5ac.js.map": "/static/js/main.4be8a5ac.js.map",
     "453.4c931874.chunk.js.map": "/static/js/453.4c931874.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.cb823499.js"
+    "static/css/main.4ef154bd.css",
+    "static/js/main.4be8a5ac.js"
   ]
 }
